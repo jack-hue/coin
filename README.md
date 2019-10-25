@@ -1,0 +1,3 @@
+该项目集成了BTC及代币、USDT、ETH、ETC及代币、NEO、EOS、ARDR、XRP等市场主流币的对接，支持离线签名操作。其中项目代码及jar包均来源于网络，安全性未做校验，鄙人仅做了集成合并等工作，请大家仔细斟酌拷贝，由此带来的经济纠纷及法律责任，由当事人承担，鄙人不承担任何法律风险及责任，现开源出来，希望能帮助大家！
+
+This project integrates the docking of BTC, tokens, USDT, ETH, ETC, tokens, NEO, EOS, ARDR, XRP and other mainstream COINS in the market, supporting offline signature operation.The project code and jar package are all from the network, the security is not verified, I only did the integration and merger work, please carefully consider the copy, the resulting economic disputes and legal responsibility, borne by the parties, I do not bear any legal risk and responsibility, now open source, hope to help you!
